@@ -4,7 +4,7 @@
 ![visao2](https://user-images.githubusercontent.com/15782004/61331405-51f13100-a7f8-11e9-804c-d6ccfeb6b10d.PNG)  
 ## **Questão 2**
 ### **Local:** Portaria do Instituto Federal do Piauí
-**Problema:**
+### **Problema:**
 Dificuldades de acesso dos alunos no instituto, em caso de ausência da carteira institucional 
 ### **Solução/Sugestão:** 
 Para o aluno adentrar as dependências da instituição é necessária que se tenha a carteira institucional. Em caso de ausência da mesma, a sua entrada não é permitida.  
